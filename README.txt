@@ -25,7 +25,4 @@
 ## 5. Hình ảnh chương trình
 
 ### Giao diện chính
-![Giao diện chính](Images/giao-dien-chinh.png)
-
-### Danh sách thiết bị
-![Danh sách thiết bị](Images/danh-sach-thiet-bi.png)
+![Giao diện chính](Images/giao-dien-chinh2.jpg)
