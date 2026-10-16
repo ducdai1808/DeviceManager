@@ -1,20 +1,31 @@
-QUAN LY DANH MUC THIET BI DIEN TU - WINFORMS
 
-Cach mo:
-1. Giai nen file ZIP.
-2. Mo thu muc DeviceManager_Ready.
-3. Mo file DeviceManager.csproj bang Visual Studio.
-4. Neu may chua co .NET 10 SDK, cai .NET 10 SDK hoac doi TargetFramework trong file csproj sang net8.0-windows (neu da cai .NET 8).
-5. Bam F5 de chay.
+# QUẢN LÝ DANH MỤC THIẾT BỊ ĐIỆN TỬ
 
-Chuc nang:
-- Them moi thiet bi, tu dong tao ma TB001, TB002...
-- Kiem tra ten, loai va don gia.
-- Cap nhat thiet bi dang chon.
-- Xoa thiet bi co hoi xac nhan.
-- Lam moi cac o nhap.
-- Hien thi danh sach bang DataGridView.
+## 1. Thông tin sinh viên
+- Họ và tên: Đỗ Đức Đại
+- Mã sinh viên: 24810310244
+- Lớp: D19CNPM3
+- Môn học: Lập trình.net
+## 2. Giới thiệu đề tài
+Ứng dụng quản lý danh mục thiết bị điện tử được xây dựng bằng C# Windows Forms.
+## 3. Công nghệ sử dụng
+- Ngôn ngữ: C#
+- Giao diện: Windows Forms
+- Môi trường phát triển: Visual Studio
+- Dữ liệu: BindingList và DataGridView
 
-Luu y:
-- Day la project WinForms viet UI bang code, khong phu thuoc file Designer.cs.
-- Du lieu chi luu trong bo nho khi chuong trinh dang chay; dong chuong trinh se mat du lieu.
+## 4. Chức năng chính
+- Thêm mới thiết bị.
+- Cập nhật thông tin thiết bị.
+- Xóa thiết bị.
+- Làm mới biểu mẫu nhập liệu.
+- Kiểm tra dữ liệu đầu vào.
+- Hiển thị danh sách thiết bị.
+
+## 5. Hình ảnh chương trình
+
+### Giao diện chính
+![Giao diện chính](Images/giao-dien-chinh.png)
+
+### Danh sách thiết bị
+![Danh sách thiết bị](Images/danh-sach-thiet-bi.png)
